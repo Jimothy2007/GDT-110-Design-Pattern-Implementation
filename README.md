@@ -3,7 +3,7 @@ This is my project for the design pattern implementation assignment. All the req
 
 - Link to the GitHub: https://github.com/Jimothy2007/GDT-110-Design-Pattern-Implementation
 - Link to the Word Document: https://1drv.ms/w/c/1bae3a119f73a11b/IQDkTZ_T1vjNS7dOmM7Vxf3qAaFoXJwGKmatWgZPVR7lAu8?e=kvaI8R
-- Link to the YouTube Video:
+- Link to the YouTube Video: https://youtu.be/ou1AwNivpGU
   
 How to run:
 - Clone the repository to GitHub desktop.
